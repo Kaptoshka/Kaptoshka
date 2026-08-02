@@ -6,7 +6,7 @@
 <tr>
 <td align="center">
 
-  <img src="output/bonsai.gif" width="250" alt="my git-bonsai" />
+  <img src="output/bonsai.gif" width="220" alt="my git-bonsai" />
   
   <p><sub>🌿 the bonsai above grows a little every day</sub>  
   </p>
