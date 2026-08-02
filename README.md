@@ -5,21 +5,10 @@
 <table align="right">
 <tr>
 <td align="center">
-
-  <img src="output/bonsai.gif" width="220" alt="my git-bonsai" />
+  <img src="output/bonsai.gif" width="240" alt="my git-bonsai" />
   
   <p><sub>🌿 the bonsai above grows a little every day</sub>  
   </p>
-
-  <br><br>
-  
-  <img src="https://lastfm-recently-played.vercel.app/api?user=KaptoshkaBtw&count=1&width=300&header_size=none">
-
-  <br>
-
-  <p><sub>🎶 last playing</sub>  
-  </p>
-  
 </td>
 </tr>
 </table>
