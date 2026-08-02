@@ -15,7 +15,7 @@
 
   <br><br>
   
-  <img src="output/bonsai-growth.gif" width="300" alt="my git-bonsai" />
+  <img src="output/bonsai.gif" width="300" alt="my git-bonsai" />
   
   <p><sub>🌿 the bonsai above grows a little every day</sub>  
   </p>
