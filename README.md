@@ -31,7 +31,7 @@ Interested in:
 ---
 
 <div align="center">
-<sup><sup><i>open to interesting projects</i></sup></sup><br>
+<sup><i>open to interesting projects</i></sup><br>
   
-<sup><sup>[[telegram](https://t.me/potatoff)] · [[email](mailto:kaptoshka@duck.com)]</sup></sup>
+<sup>[[telegram](https://t.me/potatoff)] · [[email](mailto:kaptoshka@duck.com)]</sup>
 </div>
