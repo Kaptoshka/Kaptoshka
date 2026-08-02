@@ -1,16 +1,48 @@
-### Hi there 👋
+<h3 align="center"> hello ~ </h3>
 
-<!--
-**Kaptoshka/Kaptoshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<table align="right">
+<tr>
+<td align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://lastfm-recently-played.vercel.app/api?user=KaptoshkaBtw&count=1&width=300&header_size=none">
+
+  <br>
+
+  <p><sub>🎶 last playing</sub>  
+  </p>
+
+  <br><br>
+  
+  <img src="output/bonsai.gif" width="300" alt="my git-bonsai" />
+  
+  <p><sub>🌿 the bonsai above grows a little every day</sub>  
+  </p>
+  
+</td>
+</tr>
+</table>
+  
+A full-stack developer <sup><sup>i hope so</sup></sup> and a little bit of game dev. 
+  
+- 💻 I use daily: `.go`, `.jsx/.tsx`
+- 💬 `ping` me if **i can help you**!
+
+Currently:
+- ⚙️ improving backend architecture
+- 🌱 learning more about infrastructure
+- 🎮 experimenting with game development
+
+Interested in: 
+`backend` · `systems` · `open source` · `game dev`
+
+<br clear="right"/>
+  
+---
+
+<div align="center">
+<sup><sup><i>open to interesting projects</i></sup></sup><br>
+  
+<sup><sup>[[telegram](https://t.me/potatoff)] · [[email](mailto:kaptoshka@duck.com)]</sup></sup>
+</div>
